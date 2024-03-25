@@ -1,0 +1,10 @@
+{"Id":"38","PostId":"22","VoteTypeId":"2","CreationDate":"2022-01-03T00:00:00.000"}  // Week 0
+{"Id":"39","PostId":"23","VoteTypeId":"2","CreationDate":"2022-04-10T00:00:00.000"}  // Early year
+{"Id":"40","PostId":"24","VoteTypeId":"3","CreationDate":"2022-07-15T00:00:00.000"}  // Mid-year
+{"Id":"41","PostId":"25","VoteTypeId":"2","CreationDate":"2022-10-20T00:00:00.000"}  // Mid-year
+{"Id":"42","PostId":"26","VoteTypeId":"2","CreationDate":"2022-11-25T00:00:00.000"}  // Near year-end
+{"Id":"43","PostId":"27","VoteTypeId":"3","CreationDate":"2022-12-30T00:00:00.000"}  // Week 52
+{"Id":"44","PostId":"28","VoteTypeId":"2","CreationDate":"2023-01-04T00:00:00.000"}  // Week 0 of the next year
+{"Id":"45","PostId":"29","VoteTypeId":"2","CreationDate":"2023-01-08T00:00:00.000"}  // Week 1
+{"Id":"46","PostId":"30","VoteTypeId":"3","CreationDate":"2023-07-20T00:00:00.000"}  // Mid-year
+{"Id":"47","PostId":"31","VoteTypeId":"2","CreationDate":"2023-12-25T00:00:00.000"}  // Week 52
