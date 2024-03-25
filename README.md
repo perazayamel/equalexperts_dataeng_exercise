@@ -323,7 +323,7 @@ Throughout the development of our data processing solution for handling vote dat
 
 By articulating these decisions and assumptions, we aim to provide clarity on our solution's foundation and its alignment with the project's objectives and constraints. These choices reflect a balance between leveraging DuckDB's strengths, ensuring data quality, and maintaining the flexibility to adapt to future requirements.
 
-![Successful Test Completion](https://github.com/perazayamel/pictures/blob/main/Screenshot%202024-03-25.pdf)
+![Successful Test Completion](https://github.com/EqualExperts-Assignments/equal-experts-lordly-natty-slip-7e5799ffdf9e/blob/solution/Screenshot%202024-03-25.pdf))
 
 
 ## 1. What kind of data quality measures would you apply to your solution in production?
