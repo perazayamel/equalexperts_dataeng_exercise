@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## :warning: Please read these instructions carefully and entirely first
 * Clone this repository to your local machine.
@@ -370,3 +371,7 @@ As the data volume grows, implementing robust data governance and lifecycle mana
 
 In summary, scaling to handle a 10TB dataset with daily additions of 5GB requires embracing distributed processing systems, optimizing storage and ETL processes, and adopting scalable and flexible infrastructure solutions. Emphasizing data quality, governance, and lifecycle management ensures the long-term sustainability and integrity of the data ecosystem.
 **_
+=======
+# equalexperts_dataeng_exercise
+This data engineering project ingests vote data into DuckDB, cleanses, deduplicates, and identifies outlier weeks in voting patterns. It utilizes Python and SQL for efficient data processing and analysis, ensuring scalability and integrity. The solution highlights OLAP-based handling and automated data quality checks for robust analytics.
+>>>>>>> origin/main
